@@ -1,6 +1,6 @@
 This is my presonal website 
 
-Develoed with:
+Developed with:
     1. html
     2. CSS
     3. JS
