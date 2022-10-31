@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+This is my presonal website 
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Develoed with:
+    1. html
+    2. CSS
+    3. JS
